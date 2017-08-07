@@ -16,8 +16,14 @@ Git
 Git 
 \f1\b \cf4 is
 \f0\b0 \cf2  free software distributed under the GPL.\
-Git has a mutable index called stage.\cf2 \cb3 \
+Git has a mutable index called stage.\
 \pard\pardeftab720\sl360\partightenfactor0
-\cf5 \cb6 \outl0\strokewidth0 \strokec5 Git tracks changes of files.
+\cf2 \cb3 Git tracks changes of files.
+\f2 \
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f0 \cf5 \cb6 \outl0\strokewidth0 \strokec5 Creating a 
+\f1\b \cf4 \strokec4 new
+\f0\b0 \cf5 \strokec5  branch is quick.
 \f2 \
 }
